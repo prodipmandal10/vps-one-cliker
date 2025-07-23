@@ -1,0 +1,2 @@
+# vps-one-cliker
+trick
